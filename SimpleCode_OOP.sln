@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCode_OOP", "SimpleCode_OOP.csproj", "{86A26E9B-7954-46C2-BF67-C84D4C8BD0D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCode_OOP", "SimpleCode_OOP.csproj", "{86A26E9B-7954-46C2-BF67-C84D4C8BD0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2", "..\Lesson_2\Lesson_2.csproj", "{1C2140A9-35E9-4535-889A-B54F5CBA29F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{86A26E9B-7954-46C2-BF67-C84D4C8BD0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A26E9B-7954-46C2-BF67-C84D4C8BD0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A26E9B-7954-46C2-BF67-C84D4C8BD0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2140A9-35E9-4535-889A-B54F5CBA29F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2140A9-35E9-4535-889A-B54F5CBA29F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2140A9-35E9-4535-889A-B54F5CBA29F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2140A9-35E9-4535-889A-B54F5CBA29F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
