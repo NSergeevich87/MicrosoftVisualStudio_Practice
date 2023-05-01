@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson_2/1.0.0": {
+        "dependencies": {
+          "SimpleCode_OOP": "1.0.0"
+        },
+        "runtime": {
+          "Lesson_2.dll": {}
+        }
+      },
+      "SimpleCode_OOP/1.0.0": {
+        "runtime": {
+          "SimpleCode_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleCode_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
