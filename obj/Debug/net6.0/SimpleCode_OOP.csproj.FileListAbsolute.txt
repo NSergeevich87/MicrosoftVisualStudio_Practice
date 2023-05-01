@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\SimpleCode_OOP\bin\Debug\net6.0\SimpleCode_OOP.exe
+C:\Users\Professional\source\repos\SimpleCode_OOP\bin\Debug\net6.0\SimpleCode_OOP.deps.json
+C:\Users\Professional\source\repos\SimpleCode_OOP\bin\Debug\net6.0\SimpleCode_OOP.runtimeconfig.json
+C:\Users\Professional\source\repos\SimpleCode_OOP\bin\Debug\net6.0\SimpleCode_OOP.dll
+C:\Users\Professional\source\repos\SimpleCode_OOP\bin\Debug\net6.0\SimpleCode_OOP.pdb
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.AssemblyInfo.cs
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.dll
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\refint\SimpleCode_OOP.dll
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.pdb
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\SimpleCode_OOP.genruntimeconfig.cache
+C:\Users\Professional\source\repos\SimpleCode_OOP\obj\Debug\net6.0\ref\SimpleCode_OOP.dll
