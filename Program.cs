@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace Lesson_2
 {
-   
-
     class Program
     {
         static Student GetStudent()
@@ -23,25 +21,12 @@ namespace Lesson_2
 
             return student;
         }
-        
-        public static void Print(Student student)
-        {
-            Console.WriteLine("Student's info: ");
-            Console.WriteLine($"Id: {student.id}");
-            Console.WriteLine($"LastName: {student.lastName}");
-            Console.WriteLine($"Name: {student.firstName}");
-            Console.WriteLine($"MiddleName: {student.middleName}");
-            Console.WriteLine($"Age: {student.age}");
-            Console.WriteLine($"Group: {student.group}");
-        }
-
         static void Main(string[] args) 
         {
             var firstStudent = GetStudent();
+            firstStudent.Print();
 
-            Print(firstStudent);
+            string fullName = firstStudent.GetFullName();   
         }
-
-
     }
 }
